@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My custom tweaks!",
+    "name": "Custom Textures",
+    "uuid": "65c1314d-91b4-4e2b-8a8c-7f286820ff11",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "My custom tweaks!",
+      "type": "resources",
+      "uuid": "43b17a14-4168-4505-8025-a4f6d70162ee",
+      "version": [0, 0, 1]
+    }
+  ]
+}
